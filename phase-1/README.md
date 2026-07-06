@@ -2,7 +2,7 @@
 
 Welcome to Phase 1! Here we cover the absolute basics of Kubernetes, including core components, Pods, Deployments, and how networking and services tie everything together.
 
-![Phase 1 Mental Model](image.png)
+![Phase 1 Mental Model](../design-docs/phase1.png)
 
 ## Kubernetes Phase 1 Cheat Sheet
 
