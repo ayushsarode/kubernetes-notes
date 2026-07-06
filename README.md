@@ -22,3 +22,9 @@ My notes are organized into phases as I progress through my learning:
   - [Why ConfigMaps & Secrets Exists?](./phase-1/11.why-configmaps-secrets-exists?.md)
 - **[Design Docs](./design-docs/)**: Visual diagrams and mental models to help understand Kubernetes architecture.
 - _(More phases coming soon!)_
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushsarode-kubernetes-notes&label=Views&color=0e75b6&style=flat" alt="Views" />
+</p>
